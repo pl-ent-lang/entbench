@@ -1,0 +1,6 @@
+Data size could be the size of length of the video.
+QoS could be the resolution of the stream.
+
+Use case could be selecting small, mid, and large videos (possibly
+find a study citing the average youtube video length).
+

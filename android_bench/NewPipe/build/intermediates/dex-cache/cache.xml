@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_289054772f6f18f49d417a727c0b5e5b95b3a0ee.jar" />
+    </item>
+    <item
+        jar="/home/acanino/Research/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_83237ac6ebb41a09ce5e811f7daed5f5bcb92089.jar" />
+    </item>
+    <item
+        jar="/home/acanino/.gradle/caches/modules-2/files-2.1/info.guardianproject.netcipher/netcipher/1.2/40b3d0b37e2d0ea1f25c299ae732cddf1578b730/netcipher-1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40b3d0b37e2d0ea1f25c299ae732cddf1578b730">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/netcipher-1.2_9403289ba995dfd194f07878ad71bcfce358f9fb.jar" />
+    </item>
+    <item
+        jar="/home/acanino/Projects/ent/lib/ent-rt.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3866d63ef01eadac1063ae8f7ec7532880564a92">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/ent-rt_351bffddda293d39a470d45b130c88baaccb5c0f.jar" />
+    </item>
+    <item
+        jar="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/exploded-aar/com.nononsenseapps/filepicker/2.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09da6d863e0710eba3f5feb677dd8d1bdea76c5d">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/com.nononsenseapps-filepicker-2.0.5_64636ec92ca6c8c066b1e898e3e13b113b6efa0d.jar" />
+    </item>
+    <item
+        jar="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.0.0_1b650c4dfc4cbdc66757a2a359061cd6581c5e4a.jar" />
+    </item>
+    <item
+        jar="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/exploded-aar/com.github.nirhart/parallaxscroll/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2574796fab3c6145ca6170821badd305f5e03669">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/com.github.nirhart-parallaxscroll-1.0_e6ab5d5a77212ff87304d42f200fdc456fdbe193.jar" />
+    </item>
+    <item
+        jar="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_ab78a120e0f1032e239f4b0ae8e5046a6114c01b.jar" />
+    </item>
+    <item
+        jar="/home/acanino/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/gson-2.4_be4c3d4efb0b70c1d9377f443048c5ddeeba258b.jar" />
+    </item>
+    <item
+        jar="/home/acanino/.gradle/caches/modules-2/files-2.1/org.mozilla/rhino/1.7.7/3a9ea863b86126b0ed8f2fe2230412747cd3c254/rhino-1.7.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a9ea863b86126b0ed8f2fe2230412747cd3c254">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/rhino-1.7.7_8b2f31cfadbf21ebd9e7e0b28af4a3aec031a313.jar" />
+    </item>
+    <item
+        jar="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_f5466566e6d6cd8ce846437eb3c36251a94948fe.jar" />
+    </item>
+    <item
+        jar="/home/acanino/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.3/65fd012581ded67bc20945d85c32b4598c3a9cf1/jsoup-1.8.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/jsoup-1.8.3_256c89e7bae8189b11b699d43783b3519ebd933a.jar" />
+    </item>
+    <item
+        jar="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_f516b7fbb68c48ff1bffd91b3488d5a9981d43e3.jar" />
+    </item>
+    <item
+        jar="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_817e0459f92f479503bbd51471bdd24cf3fe69c7.jar" />
+    </item>
+    <item
+        jar="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_c6151e83887024afc91a9a5dd12770d705e7cff7.jar" />
+    </item>
+    <item
+        jar="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_b262fd183fe1185175645e83098ce0157afebfe1.jar" />
+    </item>
+    <item
+        jar="/home/acanino/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.5_99292c1f3bb22584dd9c4d1c4d4f6832f92635c8.jar" />
+    </item>
+    <item
+        jar="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="804ea66f7e6e7351ca8058f22a4604b0f8ff642d">
+        <dex dex="/home/acanino/Projects/entbench/android_bench/NewPipe/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-r1.5.5_59822b410417061b9bd0c8d5e12e88c7124291ce.jar" />
+    </item>
+
+</items>
