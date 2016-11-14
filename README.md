@@ -10,7 +10,7 @@ In addition, there are run directories that contain scripts --- all.sh, ld.sh, m
 
 For example, the Battery-Casing source code and run directory for sunflow is located at sunflow/adapt and sunflow/adapt_run. 
 
-You will have to manually adjust the ant build.xml files to point to your copy of Ent before building. [Pi specific benchmarks are located in a seperate repository](ttps://github.com/pl-ent-lang/entbench-pi) but follow a similar structure. Android benchmarks are located in the /android_bench subdirectory. There are also some useful scripts for working with the android platform contained in /android_bench/android-scripts. We also use [RERAN](https://github.com/lorenzogomez/RERAN) for running android benchmarks.
+You will have to manually adjust the ant build.xml files to point to your copy of Ent before building. [Pi specific benchmarks are located in a seperate repository](https://github.com/pl-ent-lang/entbench-pi) but follow a similar structure. Android benchmarks are located in the /android_bench subdirectory. There are also some useful scripts for working with the android platform contained in /android_bench/android-scripts. We also use [RERAN](https://github.com/lorenzogomez/RERAN) for running android benchmarks.
 
 Additional Notes
 ----------------
