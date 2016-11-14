@@ -10,7 +10,7 @@ In addition, there are run directories that contain scripts --- all.sh, ld.sh, m
 
 For example, the Battery-Casing source code and run directory for sunflow is located at sunflow/adapt and sunflow/adapt_run. 
 
-You will have to manually adjust the ant build.xml files to point to your copy of Ent before building. [Pi specific benchmarks are located in a seperate repository](https://github.com/anthonycanino1/entbench-pi) but following a similar structure.
+You will have to manually adjust the ant build.xml files to point to your copy of Ent before building. [Pi specific benchmarks are located in a seperate repository](htthttps://github.com/pl-ent-lang/entbench-pi) but follow a similar structure.
 
 Additional Notes
 ----------------
